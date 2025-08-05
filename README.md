@@ -129,11 +129,3 @@ Below is a summary of the performance metrics comparing the model trained on the
 
 
 The use of synthetic data enables **better diagnosis**, leading to **fewer complications** and **lower treatment costs**. This approach creates a **scalable method** that can be applied to other conditions, such as cancer and heart disease, while building **greater trust** in AI-driven clinical tools. Strategically, this supports **equitable healthcare delivery**, enables **preventive care at scale**, and reduces dependency on costly and scarce real-world datasets.
-
----
-
-## 🤝 A Final Note
-
-Synthetic data is a powerful tool for driving innovation in healthcare — but it should be used responsibly. While it helps solve data gaps, we must also ensure that models built on synthetic data are transparent and validated with real-world results.
-
-
